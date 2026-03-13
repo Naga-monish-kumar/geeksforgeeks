@@ -5,7 +5,7 @@ class TestClass {
         int N=sc.nextInt();
         sc.nextLine();
         String S=sc.nextLine();
-         
+
          System.out.println(N*2);
          System.out.println(S);
     }
