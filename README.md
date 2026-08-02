@@ -23,9 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1768-merge-strings-alternately](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
