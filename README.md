@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
