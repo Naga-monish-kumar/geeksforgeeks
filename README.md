@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
