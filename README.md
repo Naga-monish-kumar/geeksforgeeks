@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
+| [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
+| [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
