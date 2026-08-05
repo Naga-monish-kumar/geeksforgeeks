@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
 | [1768-merge-strings-alternately](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Counting Sort
