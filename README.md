@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
+| [2418-sort-the-people](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0058-length-of-last-word) |
 | [1768-merge-strings-alternately](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1768-merge-strings-alternately) |
+| [2418-sort-the-people](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
+| [2418-sort-the-people](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
+| [2418-sort-the-people](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
