@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0007-reverse-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
 ## Array
