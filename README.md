@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0069-sqrtx) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
 ## Array
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0053-maximum-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
