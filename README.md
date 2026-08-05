@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Counting Sort
