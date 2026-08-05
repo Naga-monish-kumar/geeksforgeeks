@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0050-powx-n) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
 ## Array
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
