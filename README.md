@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0053-maximum-subarray) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
