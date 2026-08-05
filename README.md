@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0048-rotate-image) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
 ## Array
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0048-rotate-image) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
