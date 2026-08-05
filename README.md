@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0014-longest-common-prefix) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0014-longest-common-prefix) |
 | [1768-merge-strings-alternately](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
