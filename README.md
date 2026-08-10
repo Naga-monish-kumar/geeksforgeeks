@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0058-length-of-last-word) |
 | [1768-merge-strings-alternately](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1768-merge-strings-alternately) |
 | [2418-sort-the-people](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2716-minimize-string-length) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0049-group-anagrams) |
 | [2418-sort-the-people](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
