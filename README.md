@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0069-sqrtx) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2427-number-of-common-factors](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
@@ -157,9 +158,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
