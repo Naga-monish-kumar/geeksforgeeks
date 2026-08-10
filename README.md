@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0069-sqrtx) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0274-h-index](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/0704-binary-search) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2418-sort-the-people](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/main/3895-count-digit-appearances/) | Medium |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Naga-monish-kumar/geeksforgeeks/tree/master/1588-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
